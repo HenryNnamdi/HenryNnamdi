@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Henry Nnamdi</h1>
-<h3 align="center">A passionate Software developer from the South Eastern Part of Nigeria. </h3>
-<h3 align="center">  Currently studying Physics at Olusegun Agagu University Of Science And Technology Okitipupa, ondo State. </h3>
+<h1 align="center">Hi there 👋, I'm Henry Nnamdi</h1>
+<h3 align="center">A passionate Software developer from the South Eastern Part of Nigeria. Currently studying Physics at Olusegun Agagu University Of Science And Technology Okitipupa, ondo State. </h3>
 
 
 
@@ -12,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/spacecannon_x" target="blank"><img src="https://img.shields.io/twitter/follow/spacecannon_x?logo=twitter&style=for-the-badge" alt="spacecannon_x" /></a> </p>
 
-- 🔭 I’m currently working on Different Responsive User Interfaces using React.Js. **React.js**
+- 🔭 I’m currently working on Different Responsive User Interfaces using **React.js**
 
 - 🌱 I’m currently learning **React.js, Python**
 
