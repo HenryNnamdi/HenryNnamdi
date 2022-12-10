@@ -1,4 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Henry Nnamdi</h1>
+![IMG_20210101_161137](https://user-images.githubusercontent.com/97627175/206835666-24ada5ab-b921-444d-b427-4c9a48cacd67.jpg)
+
+
+
+
+<h1 align="center">Hi there 👋, I'm Henry Nnamdi.</h1>
 <h3 align="center">A passionate Software developer from the South Eastern Part of Nigeria. Currently studying Physics at Olusegun Agagu University Of Science And Technology Okitipupa, ondo State. </h3>
 
 
