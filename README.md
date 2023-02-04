@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on the BACKEND AND DATASCIENCE SPACE with **Python** and **GoLanguage**
 
-- 🌱 I’m currently learning **React.js, Python**
+- 🌱 I’m currently learning **GoLanguage, Python**
 
 - 👯 I’m looking to collaborate on **Python** and **GoLanguage**
 
